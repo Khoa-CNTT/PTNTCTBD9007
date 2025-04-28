@@ -109,7 +109,7 @@ a {
   border: 1px solid #cccccc5b;
   border-radius: 5px;
   font-size: 14px;
-color: #000000 !important; /* Đảm bảo chữ trong input là đen */
+  color: #000000 !important; /* Đảm bảo chữ trong input là đen */
 }
 
 .radio-group {
